@@ -1,2 +1,3 @@
-# raspberry_alexa_dht22
-Ask Alexa the temperature and humidity in the room.
+# Alexa, ask Raspberry...
+
+Ask Alexa the temperature and humidity in the room using flask-ask, netgrok and an Adafruit DHT22 sensor.
