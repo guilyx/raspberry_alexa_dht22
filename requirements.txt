@@ -1,0 +1,7 @@
+Flask==1.0.2
+Adafruit_Blinka==5.5.4
+Flask_Ask==0.9.8
+adafruit_circuitpython_dht==3.5.1
+adafruit_dht==1.4.0
+board==1.0
+cryptography==2.1.4

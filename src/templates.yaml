@@ -1,0 +1,3 @@
+init: Hi, I am Jarvis and I can sense variations in your environments through my sensors.
+temperature: It is {{ temperature }} degrees in the room I can sense.
+humidity: The current relative humidity is at {{ humidity }} %.
